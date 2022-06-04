@@ -1,2 +1,2 @@
 # Base-RH
-![Alt text](Base RH.png?raw=true "Title")
+![Alt text](Base RH.png?raw=true "Dashboard")
